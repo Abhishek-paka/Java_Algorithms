@@ -1,4 +1,4 @@
-# Java_Algorithms
+# Java_Algorithm(Sieve of Eratosthenes)
 
 DESCRIPTION: 
 
